@@ -6,3 +6,5 @@
 6. Second Largest Or Smallest Between Three
 7. Decimal To Heaxadecimal
 8. Hexadecimal To Decimal
+9. Count 1 bits in Binary Digit
+10.LragestPower of 2
