@@ -7,4 +7,13 @@
 7. Decimal To Heaxadecimal
 8. Hexadecimal To Decimal
 9. Count 1 bits in Binary Digit
-10.LragestPower of 2
+10. LragestPower of 2
+11. Tailing Zero in Binary
+12. Binary To Octal
+13. Octal To Binary
+14. Sum Of Digits
+15. Product Of Digits
+16. Reverse Given Number
+17. Palindrom Number Check
+18. Count no. of Digit in Number
+19. Largest Digit in Number
