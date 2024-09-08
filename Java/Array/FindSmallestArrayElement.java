@@ -8,6 +8,7 @@ class  FindSmallestArrayElement{
                 for(int i=0;i<size;i++){
                         arr[i]=sc.nextInt();
                 }
+                sc.close();
                 int min=arr[0];
                 for(int i=0;i<size;i++){
                         if(arr[i]<min){
