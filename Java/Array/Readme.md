@@ -8,3 +8,4 @@
 8.      Find the intersection of two arrays.
 9.	Remove duplicates from an array.
 10.	Count the occurrences of each element in an array.
+11.	K-Position Rotate two different ways.
