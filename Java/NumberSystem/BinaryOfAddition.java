@@ -1,14 +1,19 @@
 import java.util.Scanner;
-class  FactorialNumber{
+class  BinaryOfAddition{
 public static void main(String [] args){
 Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();
+int b=sc.nextInt();
 sc.close();
-int result=1;
-for(int i=1;i<=a;i++){
-result*=i;
+int sum=a+b;
+int result=0;
+while(sum>0){
+int temp=sum%2;
+result=(result+temp)*10;
+sum/=10;
+
 
 }
-System.out.println(result);
+
 }
 }

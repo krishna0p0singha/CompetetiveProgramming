@@ -5,6 +5,7 @@ class  DecimalToBinary{
                 System.out.print("Enter Decimal number => ");
 		int num=sc.nextInt();
 		int dtb=0;
+		sc.close();
 		while(num>0){
 			int temp = num%2;
 			dtb=(dtb+temp)*10;

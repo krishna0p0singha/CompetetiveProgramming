@@ -4,7 +4,7 @@ class BinaryToOctal{
 		Scanner sc=new Scanner(System.in);
 		String b=sc.nextLine();
 		long binary=Long.parseLong(b);
-
+		sc.close();
 		int count=0;
 		int binary_increment=1;
 		long octal_val=0;

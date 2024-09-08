@@ -12,6 +12,7 @@ public static void main(String[] args){
 		octal/=10;
 		octal_counter++;
 	}
+	sc.close();
 String binary="";
 while(decimal>0){
 int temp =decimal%2;

@@ -3,6 +3,7 @@ class  BinaryToDecimal{
 public static void main(String [] args){
 	Scanner sc= new Scanner(System.in);
 	int binary=sc.nextInt();
+	sc.close();
 	int count=1;
 	int decimal=0;
 	while(binary>0){

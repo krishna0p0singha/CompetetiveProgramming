@@ -7,6 +7,7 @@ int decimal=0;
 int count=0;
 for(int i=hexadecimal.length()-1;i>=0;i--){
 char ch=hexadecimal.charAt(i);
+sc.close();
 if(ch>64){
 	switch(ch){
 		case 'A':

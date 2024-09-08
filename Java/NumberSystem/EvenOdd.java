@@ -4,6 +4,7 @@ class EvenOdd{
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter integer: ");
 		int a=sc.nextInt();
+		sc.close();
 		String result= a%2 == 0 ? "Even" : "Odd" ;
 		System.out.println("Enter number"+a+" is "+result);
 	}

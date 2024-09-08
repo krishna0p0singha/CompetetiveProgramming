@@ -4,6 +4,7 @@ class  DecimalToHexadecimal{
 		Scanner sc=new Scanner(System.in);
 		int decimal=sc.nextInt();
 		String Hexidecimal="";
+		sc.close();
 		while(decimal>0){
 			int temp = decimal%16;
 			switch(temp){

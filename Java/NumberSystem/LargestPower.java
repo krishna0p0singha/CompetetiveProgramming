@@ -4,6 +4,7 @@ class LargestPower{
 		Scanner sc=new Scanner(System.in);
 		int a=sc.nextInt();
 		int higestpower=0;
+		sc.close();
 		while(Math.pow(2,higestpower)<=a){
 			higestpower++;
 		}

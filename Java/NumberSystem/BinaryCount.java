@@ -9,6 +9,7 @@ while(b>0){
 	count += b%10!= 0 ? 1 : 0;
 	b/=10;
 }
+sc.close();
 System.out.println(count);
 }
 

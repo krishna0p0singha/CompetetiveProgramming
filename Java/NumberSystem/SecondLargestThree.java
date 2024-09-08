@@ -8,7 +8,9 @@ class  SecondLargestThree{
                 int b=sc.nextInt();
 		System.out.print("Enter Third Number ");
                 int c=sc.nextInt();
+				sc.close();
 		int result=a<b && a>c ? a :b <a && b>c ? b: c;
+
 		System.out.println(result+" is second largest");
 }
 }

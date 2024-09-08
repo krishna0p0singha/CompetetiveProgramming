@@ -19,3 +19,6 @@
 19. Largest Digit in Number
 20. Factorial Of Number
 21. Number is Prime or Not
+22. Sum of Square N-Natural Numbers
+23. Sum of Cubes  N-Natural Numbers
+24. Prime In Range/Limit

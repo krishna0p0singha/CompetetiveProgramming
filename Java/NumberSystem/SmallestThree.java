@@ -8,6 +8,7 @@ class  SmallestThree{
                 int b=sc.nextInt();
 		System.out.print("Enter third Number ");
                 int c=sc.nextInt();
+				sc.close();
 		int result =a<b && a<c ? a : b<c && b<a ? b : c;
 		System.out.println(result + " ia a smallest one");
 
